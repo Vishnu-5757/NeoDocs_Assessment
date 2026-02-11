@@ -1,0 +1,4 @@
+falcon==4.2.0
+gunicorn==25.0.3
+packaging==26.0
+python-dotenv==1.2.1
